@@ -1,0 +1,8 @@
+# Tailscale
+IP-CIDR,100.0.0.0/8,no-resolve
+DOMAIN-SUFFIX,ts.net
+PROCESS-NAME,tailscaled.exe
+PROCESS-NAME,tailscale-ipn.exe
+
+# Zerotier
+zerotier-one_x64.exe
